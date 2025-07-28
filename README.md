@@ -28,7 +28,9 @@ Built with **ASP.NET Core Web API**, layered using Clean Architecture.
 - SignalR for real-time notifications
 - Swagger (OpenAPI) documentation
 - Logging with Serilog / built‑in
-
+- stripe Payment
+- سيي
+- سفقهح
 ---
 
 ## 🚀 Getting Started
